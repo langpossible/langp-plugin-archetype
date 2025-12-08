@@ -3,7 +3,7 @@
 ```bash
 mvn archetype:generate \
   -DarchetypeGroupId=com.langpossible \
-  -DarchetypeArtifactId=langp-plugin-archetype-archetype \
+  -DarchetypeArtifactId=langp-plugin-archetype \
   -DarchetypeVersion=1.0.0-SNAPSHOT \
   -DgroupId=com.example \
   -DartifactId=my-plugin \
