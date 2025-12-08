@@ -11,7 +11,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <langp-plugin-core.version>1.0.0-SNAPSHOT</langp-plugin-core.version>
+        <langp-plugin-core.version>1.0.0</langp-plugin-core.version>
     </properties>
 
     <dependencies>

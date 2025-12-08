@@ -2,10 +2,10 @@ name: ${Name}
 label:
   zh_Hans: ${Name}
 description:
-  zh_Hans:
-version: 0.0.1
-type: tool
-author:
+  zh_Hans: ${Description}
+version: ${Version}
+type: ${Type}
+author: ${Author}
 credentials:
   key:
     help:

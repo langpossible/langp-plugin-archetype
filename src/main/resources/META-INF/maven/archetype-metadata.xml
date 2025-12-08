@@ -6,6 +6,18 @@
     <requiredProperty key="Name">
       <defaultValue>Demo</defaultValue>
     </requiredProperty>
+    <requiredProperty key="Description">
+      <defaultValue>Demo</defaultValue>
+    </requiredProperty>
+    <requiredProperty key="Version">
+      <defaultValue>1.0.0</defaultValue>
+    </requiredProperty>
+    <requiredProperty key="Type">
+      <defaultValue>tool</defaultValue>
+    </requiredProperty>
+    <requiredProperty key="Author">
+      <defaultValue>langp.cn</defaultValue>
+    </requiredProperty>
   </requiredProperties>
   <fileSets>
     <fileSet filtered="true" packaged="true" encoding="UTF-8">
