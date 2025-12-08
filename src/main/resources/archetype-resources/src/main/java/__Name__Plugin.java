@@ -1,7 +1,7 @@
-package ${package}.plugin;
+package ${package};
 
-import ${package}.core.PluginInput;
-import ${package}.core.PluginOutput;
+import com.langpossible.core.plugin.PluginInput;
+import com.langpossible.core.plugin.PluginOutput;
 
 public class ${Name}Plugin {
 

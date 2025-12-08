@@ -18,8 +18,8 @@
         <!-- langp-plugin-core -->
         <dependency>
             <groupId>com.langpossible</groupId>
-            <artifactId>langp-plugin-core</artifactId>
-            <version>${langp-plugin-core.version}</version>
+            <artifactId>langp-core</artifactId>
+            <version>${langp-core.version}</version>
         </dependency>
     </dependencies>
 
