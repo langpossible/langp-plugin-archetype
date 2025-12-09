@@ -11,7 +11,8 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <langp-plugin-core.version>1.0.0</langp-plugin-core.version>
+        <langp-core.version>1.0.0</langp-core.version>
+        <hutool-all.version>5.8.40</hutool-all.version>
     </properties>
 
     <dependencies>
@@ -20,6 +21,13 @@
             <groupId>com.langpossible</groupId>
             <artifactId>langp-core</artifactId>
             <version>${langp-core.version}</version>
+        </dependency>
+
+        <!-- hutool-all -->
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>${hutool-all.version}</version>
         </dependency>
     </dependencies>
 
