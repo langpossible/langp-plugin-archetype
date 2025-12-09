@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b04b050e-c401-47b2-a52f-a80d93acfe85" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/tools/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/__Name__Plugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/provider/__Name__Plugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/resources/manifest.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/resources/manifest.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/provider/__Name__Plugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/provider/__Name__Plugin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +92,7 @@
       <updated>1764819754591</updated>
       <workItem from="1764819756292" duration="5380000" />
       <workItem from="1765163472472" duration="2439000" />
-      <workItem from="1765182657872" duration="8214000" />
+      <workItem from="1765182657872" duration="9069000" />
     </task>
     <servers />
   </component>
